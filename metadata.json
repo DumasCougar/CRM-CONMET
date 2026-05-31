@@ -1,0 +1,6 @@
+{
+  "name": "CRM Multipromotor",
+  "description": "CRM centralizado y seguro para múltiples promotores con leads, pipeline visual, envío de WhatsApp y reportes de comisiones en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
